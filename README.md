@@ -1,5 +1,5 @@
 ### Hi there! I'm Aryaa 👋
-![Header](img/github-header-image.png)
+![Header](img/github-header3.png)
 <!--
 **AryaIGG/aryaigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
