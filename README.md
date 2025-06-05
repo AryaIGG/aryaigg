@@ -15,5 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I’m students of **SMK Negeri 1 Sukawati**.
-- 🔎 I’m currently learning [**Laravel**](https://laravel.com) Framework.
+##### 🎵 About Me
+
+- 🏫 I am a student at **SMK Negeri 1 Sukawati**, majoring in **Software Engineering (Rekayasa Perangkat Lunak)**.  
+- 💻 Currently learning the [**Laravel**](https://laravel.com) framework to deepen my web development skills.  
+- 🌐 Also studying **basic Japanese** as preparation for pursuing higher education in Japan.  
+- 🎶 Enjoy playing **rhythm games** as a way to sharpen focus and coordination.  
+- 🧠 Highly curious and always eager to learn new technologies and explore creative solutions.
+
+##### Skills
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+##### Social Media
+![https://www.instagram.com/snowwline](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+##### Contact 
+![https://line.me/R/ti/p/~861082993](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white) ![https://wa.me/6287843297768](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
